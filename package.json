@@ -29,7 +29,8 @@
     "typescript": "^5"
   },
   "ampt": {
-    "app": "nextjs",
-    "runtime": "nodejs18"
+    "app": "ampt-next-js-template",
+    "runtime": "nodejs18",
+    "org": "tlakomy"
   }
 }
